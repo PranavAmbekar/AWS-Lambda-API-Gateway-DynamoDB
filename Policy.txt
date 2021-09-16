@@ -5,6 +5,7 @@
             "Sid": "VisualEditor0",
             "Effect": "Allow",
             "Action": [
+            
                 "dynamodb:BatchGetItem",
                 "dynamodb:BatchWriteItem",
                 "dynamodb:TagResource",
