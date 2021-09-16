@@ -17,6 +17,7 @@
                 "dynamodb:Query",
                 "dynamodb:UpdateItem"
             ],
+            
             "Resource": "REPLACE-THIS-TEXT-WITH-YOUR-DYNAMO-DB-TABLE-ARN"
         },
         {
